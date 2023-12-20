@@ -1,4 +1,4 @@
-# SDA_Project
+# SDA Project
 Project Title and Logo (if applicable): A clear title that can include a brief description of the project's purpose.
 
 Project Description: An overview of what the project does, its use, and its value. Provide background information that explains why it's useful or what problem it solves.
